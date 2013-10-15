@@ -1,0 +1,5 @@
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperLib\bin\Release\EarthWallpaperLib.dll
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperLib\bin\Release\EarthWallpaperLib.pdb
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperLib\obj\Release\EarthWallpaperLib.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperLib\obj\Release\EarthWallpaperLib.dll
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperLib\obj\Release\EarthWallpaperLib.pdb

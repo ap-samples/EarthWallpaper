@@ -1,0 +1,10 @@
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Release\EarthWallpaperAutoUpdate.exe.config
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Release\EarthWallpaperAutoUpdate.exe
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Release\EarthWallpaperAutoUpdate.pdb
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Release\EarthWallpaperLib.dll
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Release\EarthWallpaperLib.pdb
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\obj\Release\EarthWallpaperService.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\obj\Release\EarthWallpaperAutoUpdate.ProjectInstaller.resources
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\obj\Release\EarthWallpaperService.csproj.GenerateResource.Cache
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\obj\Release\EarthWallpaperAutoUpdate.exe
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\obj\Release\EarthWallpaperAutoUpdate.pdb

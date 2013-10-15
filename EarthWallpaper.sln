@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthWallpaperLib", "EarthWallpaperLib\EarthWallpaperLib.csproj", "{96AAF0C9-E6DB-4AFC-805F-DE18581376A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEarthWallpaper", "TestEarthWallpaper\TestEarthWallpaper.csproj", "{D2622A09-897E-40EB-BD84-4B32F883FD51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthWallpaperService", "EarthWallpaperAutoUpdate\EarthWallpaperService.csproj", "{8D756FC9-B495-457B-B27C-0A0FFC0B717C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AAF0C9-E6DB-4AFC-805F-DE18581376A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AAF0C9-E6DB-4AFC-805F-DE18581376A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AAF0C9-E6DB-4AFC-805F-DE18581376A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AAF0C9-E6DB-4AFC-805F-DE18581376A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2622A09-897E-40EB-BD84-4B32F883FD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2622A09-897E-40EB-BD84-4B32F883FD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2622A09-897E-40EB-BD84-4B32F883FD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2622A09-897E-40EB-BD84-4B32F883FD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D756FC9-B495-457B-B27C-0A0FFC0B717C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D756FC9-B495-457B-B27C-0A0FFC0B717C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D756FC9-B495-457B-B27C-0A0FFC0B717C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D756FC9-B495-457B-B27C-0A0FFC0B717C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

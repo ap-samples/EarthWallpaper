@@ -1,0 +1,8 @@
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Debug\EarthWallpaperAutoUpdate.exe.config
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Debug\EarthWallpaperAutoUpdate.exe
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Debug\EarthWallpaperAutoUpdate.pdb
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Debug\EarthWallpaperLib.dll
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\bin\Debug\EarthWallpaperLib.pdb
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\obj\Debug\EarthWallpaperService.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\obj\Debug\EarthWallpaperAutoUpdate.exe
+C:\Users\1\documents\visual studio 2012\Projects\EarthWallpaperLib\EarthWallpaperAutoUpdate\obj\Debug\EarthWallpaperAutoUpdate.pdb
